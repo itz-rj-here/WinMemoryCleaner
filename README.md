@@ -1,12 +1,14 @@
 <div align="center">
   <h1>Windows Memory Cleaner</h1>
 
-[![](https://img.shields.io/github/license/IgorMundstein/WinMemoryCleaner?style=for-the-badge)](/LICENSE)
-  [![](https://img.shields.io/github/downloads/IgorMundstein/WinMemoryCleaner/total?style=for-the-badge)](https://github.com/IgorMundstein/WinMemoryCleaner/releases/latest/)
+[![](https://img.shields.io/github/license/itz-rj-here/WinMemoryCleaner?style=for-the-badge)](/LICENSE)
+  [![](https://img.shields.io/github/downloads/itz-rj-here/WinMemoryCleaner/total?style=for-the-badge)](https://github.com/itz-rj-here/WinMemoryCleaner/releases/latest/)
 
   <picture>
     <img src="/.github/images/main-window.png">
   </picture>
+
+<h3>Hello everyone. This is a forked repository of the original Windows Memory Cleaner. The original author has been inactive for almost 2 years, so I forked the repository to keep the software updated. If the original author returns and updates the software, this fork will be archived. Until then, you can use this version.</h3>
 
   <p align="justify">
     This free RAM cleaner uses native Windows features to clear memory areas. Sometimes, programs do not release the allocated memory, making the computer slow. That is when you use Windows Memory Cleaner to optimize the memory so you can keep working without wasting time restarting your system. 
@@ -17,7 +19,7 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/IgorMundstein/WinMemoryCleaner/releases/latest/download/WinMemoryCleaner.exe">
+    <a href="https://github.com/itz-rj-here/WinMemoryCleaner/releases/latest/download/WinMemoryCleaner.exe">
       <img alt="DOWNLOAD" src="/.github/images/download-button.png">
     </a>
   </p>
@@ -160,7 +162,7 @@ If you are a native speaker of any language other than English, you can contribu
 1. Visit [https://ss64.com/locale.html](https://ss64.com/locale.html) to get the **locale description** of the language
 2. Save it as **{locale-description}.json** using **UTF-8** as character encoding
 3. Launch the application. If successful, the new language and changes will be visible
-4. Either submit a pull request or upload the file to the [translation discussion](https://github.com/IgorMundstein/WinMemoryCleaner/discussions/14)
+4. Either submit a pull request or upload the file to the [translation discussion](https://github.com/itz-rj-here/WinMemoryCleaner/discussions/14)
 
 💡 If you are a .NET developer
 
